@@ -1,0 +1,83 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="B6B899EA-15AA-40AB-A57D-3B36BDD26E0F" platform="MtWeb" defaultW="1535" defaultH="863" measureW="1535" measureH="863" mobileScreenScale="0">
+  <controls controlCount="11">
+    <control controlID="C7B34A8C-3904-4606-95B7-16FFD8520D8E" controlTypeID="Image" x="0" y="155" w="1535" h="714" zOrder="0">
+      <URL>7D26AC7D51DEDE9B19168833A2D745F1.jpg</URL>
+    </control>
+    <control controlID="15574CDD-E3A0-48B5-A5A4-0DC988A2292F" controlTypeID="Image" x="0" y="0" w="745" h="155" zOrder="1">
+      <URL>F6D92E56F65B9D59D70F0491A2D57584.png</URL>
+    </control>
+    <control controlID="64D8082A-A8B2-4567-9737-078882C66A19" controlTypeID="Image" x="144" y="155" w="1260" h="714" zOrder="2">
+      <URL>B39E34CEAC02C4D5607EBD3B805F0EFF.jpg</URL>
+    </control>
+    <control controlID="31680A08-423B-49B8-8173-F425BA100DA3" controlTypeID="Shape" x="592" y="223" w="341" h="332" zOrder="3">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="9E68DBEE-5387-4A71-83F8-7438C11C7061" controlTypeID="Label" x="662" y="242" w="199" h="27" zOrder="4">
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Login+(Student%2Fstaff)</text>
+      <textSize>20</textSize>
+      <textAlign>HaCenter</textAlign>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="1A456A9C-A2A7-4F88-A679-E2D6933D75DC" controlTypeID="TextInput" x="624" y="330" w="284" h="36" zOrder="5">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2DCE5870-BA9B-4F45-9FA2-38EA84254049" controlTypeID="Label" x="624" y="296" w="89" h="24" zOrder="6">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Username+%3A</text>
+      <textSize>18</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="3B5DEA9E-0A60-48EE-864A-066A2BAC5791" controlTypeID="TextInput" x="624" y="425" w="284" h="34" zOrder="7">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A32E1BBF-A9F7-4052-B011-8EB4985A5F21" controlTypeID="Label" x="624" y="396" w="83" h="24" zOrder="8">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Password+%3A</text>
+      <textSize>18</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="0BCDC2BF-3F29-425D-8D39-8CF9691AECCE" controlTypeID="Button" x="705" y="474" w="99" h="36" zOrder="9">
+      <color>4294901811</color>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="3F3D442D-E781-42F1-9033-B329129F47D9" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{D0988CE5-B5E1-4C2A-8DF1-BE3997951947}" coords="(0,0,99,36)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>log+in</text>
+      <textColor>4294967295</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="4844EA73-E676-436B-814C-F892D7AF1860" controlTypeID="Label" x="707" y="523" w="97" h="19" zOrder="10">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Foget+Password</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

@@ -1,0 +1,73 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="727250E4-5EBD-4606-B886-BB780A6907F3" platform="MtCustom" defaultW="510" defaultH="300" measureW="510" measureH="300" mobileScreenScale="0">
+  <controls controlCount="8">
+    <control controlID="4D0A3FF0-2BB2-4D0A-90E3-3AFDE572339F" controlTypeID="Image" x="0" y="0" w="510" h="300" zOrder="0">
+      <URL>747DA5F7D8A6A0C1BA270E85A17B99F2.jpg</URL>
+    </control>
+    <control controlID="871930C4-BBFB-47B3-8123-62A67B8E564C" controlTypeID="Button" x="16" y="254" w="77" h="20" zOrder="1">
+      <color>4294940928</color>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="CFCC3765-A51E-4DDC-9D9F-525242FAD896" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{05AE49C8-471D-43B8-AF98-D9F062B06C9C}" coords="(0,0,77,20)"/>
+        </link>
+      </links>
+      <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%B8%96%E0%B8%AD%E0%B8%A2%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A</text>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D980401F-3EC2-47EE-B62A-8FB6837B6470" controlTypeID="Label" x="120" y="76" w="114" h="21" zOrder="2">
+      <font family="JasmineUPC" displayName="JasmineUPC+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%B8%84%E0%B8%B3%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2</text>
+      <textSize>18</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="50734310-8098-434E-BE13-C7ED388B5624" controlTypeID="Shape" x="136" y="107" w="334" h="21" zOrder="3">
+      <color>4291414473</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="18AF232E-10F7-4A82-A301-8A5C36AD1E6A" controlTypeID="Shape" x="136" y="128" w="334" h="121" zOrder="4">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="9631F731-1F18-4AA0-853D-3A26EEDCB193" controlTypeID="Label" x="148" y="112" w="279" h="15" zOrder="5">
+      <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88+++++++++++++%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2+++++++++++++++%E0%B9%80%E0%B8%A5%E0%B8%82%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2+++++++++++++++++%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD-%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5</text>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="86AFFDEA-D3D7-477F-BD2B-82DA6504C9D0" controlTypeID="Label" x="148" y="137" w="267" h="13" zOrder="6">
+      <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>25%2F08%2F63+++++10%3A25%3A39++++++++++++++62xxxxxxxxxxx++++++++++++++++++%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%AD+%E0%B8%82%E0%B8%AD</text>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="635B1AE9-27EC-4357-A714-9169CCDA6AEC" controlTypeID="Icon" x="435" y="134" w="19" h="19" zOrder="7">
+      <color>4281571839</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="97B2D359-F4F5-4CD0-810C-79F21D7F3937" linkType="ltPageLink" isApplyIncludePage="False" title="Page3">
+          <area shape="0" alt="" ID="{DAE87018-CD16-40E8-9AB6-FCA045C0933D}" coords="(0,0,19,19)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdFontCustom</iconFontName>
+        <iconCode>61837</iconCode>
+      </icon>
+      <URL>1CCB6D309D01F2C1E3DF43BE84948844.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>12</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

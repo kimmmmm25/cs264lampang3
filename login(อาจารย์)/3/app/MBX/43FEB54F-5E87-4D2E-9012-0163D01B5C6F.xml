@@ -1,0 +1,116 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="43FEB54F-5E87-4D2E-9012-0163D01B5C6F" platform="MtCustom" defaultW="1366" defaultH="768" measureW="1366" measureH="768" mobileScreenScale="0">
+  <controls controlCount="13">
+    <control controlID="58F725EF-A055-462A-811F-ADA4E5A3499F" controlTypeID="Image" x="0" y="0" w="1366" h="768" zOrder="0">
+      <URL>747DA5F7D8A6A0C1BA270E85A17B99F2.jpg</URL>
+    </control>
+    <control controlID="90B7CC09-4E4C-4953-948D-CECED8607B74" controlTypeID="Button" x="61" y="668" w="151" h="50" zOrder="1">
+      <color>4294940928</color>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="97B2D359-F4F5-4CD0-810C-79F21D7F3937" linkType="ltPageLink" isApplyIncludePage="False" title="%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%A1%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%84%E0%B8%B3%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2">
+          <area shape="0" alt="" ID="{42C047B7-FD5A-4853-AA63-6CFC05B5E5C2}" coords="(0,0,151,50)"/>
+        </link>
+      </links>
+      <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%B8%96%E0%B8%AD%E0%B8%A2%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A</text>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="534AA316-1C28-43D2-A16C-DCE3B816A29C" controlTypeID="Label" x="336" y="215" w="98" h="46" zOrder="2">
+      <font family="JasmineUPC" displayName="JasmineUPC+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3</text>
+      <textSize>40</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="E54936B0-1858-4142-B0B8-65B8F2171BDD" controlTypeID="Shape" x="423" y="296" w="162" h="169" zOrder="3">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A9BB2CDF-F63D-419A-BE47-A1216CAE6B7A" controlTypeID="Label" x="462" y="482" w="85" h="34" zOrder="4">
+      <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%B9%83%E0%B8%9A%E0%B8%84%E0%B8%B3%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%87</text>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="1CE0DC25-1FB1-4298-880C-0FA0AFC24049" controlTypeID="Shape" x="995" y="296" w="162" h="169" zOrder="5">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="0260E362-2896-4CF2-A297-F90DA481CE2E" controlTypeID="Label" x="1019" y="482" w="114" h="34" zOrder="6">
+      <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%B8%9C%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99</text>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="3891504A-E3F5-4A69-ABE4-4232D133D139" controlTypeID="Shape" x="707" y="296" w="162" h="169" zOrder="7">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D7170BA7-6B78-4354-B37D-361F1DF54C33" controlTypeID="Label" x="715" y="482" w="146" h="34" zOrder="8">
+      <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2</text>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="423A937B-D545-4C01-A80F-BC2B2392FE98" controlTypeID="Button" x="1107" y="589" w="110" h="50" zOrder="9">
+      <color>4292335575</color>
+      <borderColor>4294940979</borderColor>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="97B2D359-F4F5-4CD0-810C-79F21D7F3937" linkType="ltPageLink" isApplyIncludePage="False" title="%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%A1%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%84%E0%B8%B3%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2">
+          <area shape="0" alt="" ID="{1DFFF9A5-CCF4-4393-9974-33585B249293}" coords="(0,0,110,50)"/>
+        </link>
+      </links>
+      <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%B8%A2%E0%B8%B7%E0%B8%99%E0%B8%A2%E0%B8%B1%E0%B8%99</text>
+      <textSize>40</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="B8342DEE-8167-4D9C-B553-5F41BE0741D4" controlTypeID="Icon" x="763" y="358" w="57" h="57" zOrder="10">
+      <color>4290559164</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62325</iconCode>
+      </icon>
+      <URL>83DD69C47E6D1466D54371E396D6F349.svg</URL>
+    </control>
+    <control controlID="7F14F53D-2323-484B-8151-044DBA70751F" controlTypeID="Icon" x="1050" y="352" w="57" h="57" zOrder="11">
+      <color>4290559164</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62325</iconCode>
+      </icon>
+      <URL>83DD69C47E6D1466D54371E396D6F349.svg</URL>
+    </control>
+    <control controlID="3423E1DD-0489-4545-AB30-67E10BA606EC" controlTypeID="Icon" x="476" y="358" w="57" h="57" zOrder="12">
+      <color>4290559164</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62325</iconCode>
+      </icon>
+      <URL>83DD69C47E6D1466D54371E396D6F349.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>12</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

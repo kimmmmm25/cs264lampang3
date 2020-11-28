@@ -1,0 +1,380 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="31E406D4-0B2D-4472-AA26-981E55C81F0B" platform="MtCustom" defaultW="1366" defaultH="768" measureW="1366" measureH="768" mobileScreenScale="0">
+  <controls controlCount="11">
+    <control controlID="2FBD8CC3-BCB3-4BFA-B40C-630A749CE54C" controlTypeID="Image" x="0" y="0" w="1366" h="768" zOrder="0">
+      <URL>747DA5F7D8A6A0C1BA270E85A17B99F2.jpg</URL>
+      <showText>False</showText>
+    </control>
+    <control controlID="08E16FB2-5EA1-40F0-8D1F-18C1379F0960" controlTypeID="Button" x="59" y="660" w="175" h="52" zOrder="1">
+      <color>4294940928</color>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="DFF0F719-BB9D-4DE7-BB69-6B4749C0BCF7" linkType="ltPageLink" isApplyIncludePage="False" title="Page">
+          <area shape="0" alt="" ID="{2A8C453B-4277-4A12-8407-2DC63D2874F7}" coords="(0,0,175,52)"/>
+        </link>
+      </links>
+      <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%B8%96%E0%B8%AD%E0%B8%A2%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A</text>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="8AE6AA66-B3C4-461B-8F69-7AAA6A77EA26" controlTypeID="Label" x="320" y="193" w="122" h="46" zOrder="2">
+      <font family="JasmineUPC" displayName="JasmineUPC+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B0%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2</text>
+      <textSize>40</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="FA185018-14DE-46B8-A559-AF39F884D83E" controlTypeID="Label" x="347" y="239" w="138" h="37" zOrder="3">
+      <font family="JasmineUPC" displayName="JasmineUPC+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%3A+(%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2)</text>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold,fsUnderline]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+    </control>
+    <control controlID="487F61A9-0759-41A8-8CFB-59A7381C6D75" controlTypeID="Table" x="341" y="286" w="956" h="183" zOrder="4">
+      <borderColor>4279045389</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88+1%09%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88+2%09%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88+3%09%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88+4%09%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88+5%09%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88+6%09%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88+7%09%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88+8%09%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88+9%09%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88+10%09%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88+11%09%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88+12%09%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88+13%09%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88+14%09%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88+15%09</text>
+      <textAlign>HaCenter</textAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <thickness>1</thickness>
+      <dashMode>SdSolid</dashMode>
+      <tableStyle>tsNone</tableStyle>
+      <fontFamily/>
+      <fontWeight/>
+      <textStyles>[]</textStyles>
+      <cellBorderColor>4278190080</cellBorderColor>
+      <editIndex>0</editIndex>
+      <cells>
+        <cell rows="0,0" cols="0,0">
+          <backColor>4294901760</backColor>
+          <fontSize>32</fontSize>
+          <textHAlign>HaCenter</textHAlign>
+          <fontFamily>JasmineUPC</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <cellBorderColor>4278190080</cellBorderColor>
+          <editIndex>156</editIndex>
+          <text>%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88+1</text>
+          <textHeight>46</textHeight>
+          <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="0,0" cols="1,1">
+          <backColor>4294901760</backColor>
+          <fontSize>32</fontSize>
+          <fontFamily>JasmineUPC</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <cellBorderColor>4278190080</cellBorderColor>
+          <editIndex>156</editIndex>
+          <text>%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88+2</text>
+          <textHeight>46</textHeight>
+          <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="0,0" cols="2,2">
+          <backColor>4294901760</backColor>
+          <fontSize>32</fontSize>
+          <fontFamily>JasmineUPC</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <cellBorderColor>4278190080</cellBorderColor>
+          <editIndex>156</editIndex>
+          <text>%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88+3</text>
+          <textHeight>46</textHeight>
+          <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="0,0" cols="3,3">
+          <backColor>4281584640</backColor>
+          <fontSize>32</fontSize>
+          <fontFamily>JasmineUPC</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <cellBorderColor>4278190080</cellBorderColor>
+          <editIndex>156</editIndex>
+          <text>%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88+4</text>
+          <textHeight>46</textHeight>
+          <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="0,0" cols="4,4">
+          <backColor>4281584640</backColor>
+          <fontSize>32</fontSize>
+          <fontFamily>JasmineUPC</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <cellBorderColor>4278190080</cellBorderColor>
+          <editIndex>156</editIndex>
+          <text>%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88+5</text>
+          <textHeight>46</textHeight>
+          <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="0,0" cols="5,5">
+          <backColor>4281584640</backColor>
+          <fontSize>32</fontSize>
+          <fontFamily>JasmineUPC</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <cellBorderColor>4278190080</cellBorderColor>
+          <editIndex>156</editIndex>
+          <text>%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88+6</text>
+          <textHeight>46</textHeight>
+          <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="0,0" cols="6,6">
+          <backColor>4281584640</backColor>
+          <fontSize>32</fontSize>
+          <fontFamily>JasmineUPC</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <cellBorderColor>4278190080</cellBorderColor>
+          <editIndex>156</editIndex>
+          <text>%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88+7</text>
+          <textHeight>46</textHeight>
+          <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="0,0" cols="7,7">
+          <backColor>4281584640</backColor>
+          <fontSize>32</fontSize>
+          <fontFamily>JasmineUPC</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <cellBorderColor>4278190080</cellBorderColor>
+          <editIndex>156</editIndex>
+          <text>%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88+8</text>
+          <textHeight>46</textHeight>
+          <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="1,1" cols="0,0">
+          <backColor>4281584691</backColor>
+          <fontSize>32</fontSize>
+          <fontFamily>JasmineUPC</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <cellBorderColor>4278190080</cellBorderColor>
+          <editIndex>156</editIndex>
+          <text>%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88+9</text>
+          <textHeight>46</textHeight>
+          <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="1,1" cols="1,1">
+          <backColor>4281584691</backColor>
+          <fontSize>28</fontSize>
+          <fontFamily>JasmineUPC</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <cellBorderColor>4278190080</cellBorderColor>
+          <editIndex>156</editIndex>
+          <text>%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88+10</text>
+          <textHeight>42</textHeight>
+          <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="1,1" cols="2,2">
+          <backColor>4281584691</backColor>
+          <fontSize>28</fontSize>
+          <fontFamily>JasmineUPC</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <cellBorderColor>4278190080</cellBorderColor>
+          <editIndex>156</editIndex>
+          <text>%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88+11</text>
+          <textHeight>42</textHeight>
+          <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="1,1" cols="3,3">
+          <backColor>4281584691</backColor>
+          <fontSize>28</fontSize>
+          <fontFamily>JasmineUPC</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <cellBorderColor>4278190080</cellBorderColor>
+          <editIndex>156</editIndex>
+          <text>%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88+12</text>
+          <textHeight>42</textHeight>
+          <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="1,1" cols="4,4">
+          <backColor>4281584691</backColor>
+          <fontSize>28</fontSize>
+          <fontFamily>JasmineUPC</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <cellBorderColor>4278190080</cellBorderColor>
+          <editIndex>156</editIndex>
+          <text>%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88+13</text>
+          <textHeight>42</textHeight>
+          <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="1,1" cols="5,5">
+          <backColor>4281584691</backColor>
+          <fontSize>28</fontSize>
+          <fontFamily>JasmineUPC</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <cellBorderColor>4278190080</cellBorderColor>
+          <editIndex>156</editIndex>
+          <text>%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88+14</text>
+          <textHeight>42</textHeight>
+          <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="1,1" cols="6,6">
+          <backColor>4281584691</backColor>
+          <fontSize>28</fontSize>
+          <fontFamily>JasmineUPC</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <cellBorderColor>4278190080</cellBorderColor>
+          <editIndex>156</editIndex>
+          <text>%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88+15</text>
+          <textHeight>42</textHeight>
+          <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="1,1" cols="7,7">
+          <backColor>4294967295</backColor>
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <cellBorderColor>4278190080</cellBorderColor>
+          <editIndex>156</editIndex>
+          <textHeight>12</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+      </cells>
+      <rows>
+        <row height="87">
+          <fontFamily/>
+          <fontWeight/>
+          <textStyles>[]</textStyles>
+          <cellBorderColor>4278190080</cellBorderColor>
+          <editIndex>154</editIndex>
+          <isAutoRowHeight>False</isAutoRowHeight>
+        </row>
+        <row height="96">
+          <backColor>4281584691</backColor>
+          <fontFamily/>
+          <fontWeight/>
+          <textStyles>[]</textStyles>
+          <cellBorderColor>4278190080</cellBorderColor>
+          <editIndex>154</editIndex>
+          <isAutoRowHeight>False</isAutoRowHeight>
+        </row>
+      </rows>
+      <cols>
+        <col width="117">
+          <fontFamily/>
+          <fontWeight/>
+          <textStyles>[]</textStyles>
+          <cellBorderColor>4278190080</cellBorderColor>
+          <editIndex>155</editIndex>
+        </col>
+        <col width="121">
+          <fontFamily/>
+          <fontWeight/>
+          <textStyles>[]</textStyles>
+          <cellBorderColor>4278190080</cellBorderColor>
+          <editIndex>155</editIndex>
+        </col>
+        <col width="118">
+          <fontFamily/>
+          <fontWeight/>
+          <textStyles>[]</textStyles>
+          <cellBorderColor>4278190080</cellBorderColor>
+          <editIndex>155</editIndex>
+        </col>
+        <col width="121">
+          <fontFamily/>
+          <fontWeight/>
+          <textStyles>[]</textStyles>
+          <cellBorderColor>4278190080</cellBorderColor>
+          <editIndex>155</editIndex>
+        </col>
+        <col width="119">
+          <fontFamily/>
+          <fontWeight/>
+          <textStyles>[]</textStyles>
+          <cellBorderColor>4278190080</cellBorderColor>
+          <editIndex>155</editIndex>
+        </col>
+        <col width="120">
+          <fontFamily/>
+          <fontWeight/>
+          <textStyles>[]</textStyles>
+          <cellBorderColor>4278190080</cellBorderColor>
+          <editIndex>155</editIndex>
+        </col>
+        <col width="119">
+          <fontFamily/>
+          <fontWeight/>
+          <textStyles>[]</textStyles>
+          <cellBorderColor>4278190080</cellBorderColor>
+          <editIndex>155</editIndex>
+        </col>
+        <col width="121">
+          <fontFamily/>
+          <fontWeight/>
+          <textStyles>[]</textStyles>
+          <cellBorderColor>4278190080</cellBorderColor>
+          <editIndex>155</editIndex>
+        </col>
+      </cols>
+    </control>
+    <control controlID="BD3E599D-9A08-4E2E-A9E2-1C39977F3F0A" controlTypeID="Label" x="341" y="474" w="543" h="30" zOrder="5">
+      <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8+%E0%B8%AA%E0%B8%B5%E0%B9%81%E0%B8%94%E0%B8%87%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7+%E0%B8%AA%E0%B8%B5%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%83%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%88%E0%B8%B0%E0%B8%96%E0%B8%B6%E0%B8%87</text>
+      <textSize>28</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+    </control>
+    <control controlID="D653CA3D-5024-4F3C-9E62-ABDF6DE64079" controlTypeID="Shape" x="617" y="530" w="398" h="107" zOrder="6">
+      <color>4294111986</color>
+      <borderColor>4278190080</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <radius>8</radius>
+      <thickness>3</thickness>
+    </control>
+    <control controlID="8993F0C6-5739-4A88-A667-DD40A198A3BE" controlTypeID="Label" x="681" y="544" w="270" h="46" zOrder="7">
+      <font family="JasmineUPC" displayName="JasmineUPC+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%AD%E0%B8%B5%E0%B8%81+</text>
+      <textColor>4281571635</textColor>
+      <textSize>40</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+    </control>
+    <control controlID="38F63639-55F2-45CE-8040-BAA1A817EC68" controlTypeID="Label" x="744" y="590" w="143" h="46" zOrder="8">
+      <font family="JasmineUPC" displayName="JasmineUPC+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>12+%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C</text>
+      <textColor>4281571635</textColor>
+      <textSize>40</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+    </control>
+    <control controlID="437AD59C-F789-4CAA-8851-9D78A958B4A7" controlTypeID="Label" x="341" y="673" w="596" h="30" zOrder="9">
+      <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8+%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2+70+%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%8B%E0%B8%99%E0%B8%95%E0%B9%8C+%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%A1%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B9%84%E0%B8%94%E0%B9%89</text>
+      <textColor>4287006342</textColor>
+      <textSize>28</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+    </control>
+    <control controlID="079E2952-17C9-41F8-B3F4-ED0D38D7611E" controlTypeID="Label" x="426" y="703" w="532" h="30" zOrder="10">
+      <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2+70+%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%8B%E0%B8%99%E0%B8%95%E0%B9%8C+%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%A1%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B9%84%E0%B8%94%E0%B9%89</text>
+      <textColor>4287006342</textColor>
+      <textSize>28</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>12</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

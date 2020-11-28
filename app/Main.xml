@@ -1,0 +1,62 @@
+﻿<project version="2.9" name="ตารางสอน" ID="50A88565-8B0A-40BB-9B4D-EC8BDA40CBA2">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtWeb" pageSize="(1535,863)" backgroundColor="4294967295" fontSize="14" fontFamily="Segoe UI" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="Page3" ID="80C92541-C51C-4323-BD32-1322AEF221DE" expanded="True" code="CkzXuoNQRB" thumbCode="c4MajLbery" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="7D26AC7D51DEDE9B19168833A2D745F1.jpg"/>
+        <image key="467605F5F90D9FF65132C1A6EF883F26.svg"/>
+        <image key="3A4509DF958E528CD573E6EAA77EC967.png"/>
+      </images>
+    </page>
+  </pages>
+  <trash>
+    <page name="login" ID="B6B899EA-15AA-40AB-A57D-3B36BDD26E0F" expanded="True" code="YBdUHQLNPL" thumbCode="r5CZdpT6uR" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="F6D92E56F65B9D59D70F0491A2D57584.png"/>
+        <image key="B39E34CEAC02C4D5607EBD3B805F0EFF.jpg"/>
+        <image key="7D26AC7D51DEDE9B19168833A2D745F1.jpg"/>
+      </images>
+    </page>
+    <page name="Home" ID="3F3D442D-E781-42F1-9033-B329129F47D9" expanded="True" code="Cs5NLyiR79" thumbCode="NkD5Io4jrQ" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="3A4509DF958E528CD573E6EAA77EC967.png"/>
+        <image key="7D26AC7D51DEDE9B19168833A2D745F1.jpg"/>
+      </images>
+    </page>
+    <page name="Page1" ID="E582C9F8-0E57-4E53-8029-DCF63C1BBABE" expanded="True" code="5rhAhdriZ4" thumbCode="LvSofOW21n" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="3A4509DF958E528CD573E6EAA77EC967.png"/>
+        <image key="467605F5F90D9FF65132C1A6EF883F26.svg"/>
+        <image key="7D26AC7D51DEDE9B19168833A2D745F1.jpg"/>
+      </images>
+    </page>
+    <page name="Page2" ID="1F150355-9E75-47B7-836D-AA1B1CE87EA0" expanded="True" code="Oh7aIi8kgz" thumbCode="bkAU6xsN8g" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="3A4509DF958E528CD573E6EAA77EC967.png"/>
+        <image key="467605F5F90D9FF65132C1A6EF883F26.svg"/>
+        <image key="7D26AC7D51DEDE9B19168833A2D745F1.jpg"/>
+      </images>
+    </page>
+    <page name="Page4" ID="C3DD1C4D-869F-41AB-994F-1D6D99663D03" expanded="True" code="MShZQVF9OT" thumbCode="43LpgHjVoO" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="3A4509DF958E528CD573E6EAA77EC967.png"/>
+        <image key="467605F5F90D9FF65132C1A6EF883F26.svg"/>
+        <image key="7D26AC7D51DEDE9B19168833A2D745F1.jpg"/>
+      </images>
+    </page>
+  </trash>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="3A4509DF958E528CD573E6EAA77EC967.png"/>
+    <image key="F6D92E56F65B9D59D70F0491A2D57584.png"/>
+    <image key="467605F5F90D9FF65132C1A6EF883F26.svg"/>
+    <image key="B39E34CEAC02C4D5607EBD3B805F0EFF.jpg"/>
+    <image key="7D26AC7D51DEDE9B19168833A2D745F1.jpg"/>
+  </images>
+</project>

@@ -1,0 +1,102 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="1F150355-9E75-47B7-836D-AA1B1CE87EA0" platform="MtWeb" defaultW="1535" defaultH="863" measureW="1535" measureH="863" mobileScreenScale="0">
+  <controls controlCount="12">
+    <control controlID="93D0EA35-A1C3-4947-B971-8A8792B57E14" controlTypeID="Image" x="0" y="0" w="1535" h="863" zOrder="0">
+      <URL>7D26AC7D51DEDE9B19168833A2D745F1.jpg</URL>
+    </control>
+    <control controlID="18944555-221C-4B35-A99D-B5AC9A58F625" controlTypeID="Panel" x="203" y="177" w="1332" h="686" zOrder="1">
+      <groupChildrenDescriptors>
+        <control controlID="601F29EE-E585-4BEC-9352-A86428F62898" controlTypeID="Border" x="0" y="0" w="1332" h="686" zOrder="0">
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+    <control controlID="C5C08741-9FA7-45AE-A5A4-F6326A0BB7B3" controlTypeID="Image" x="10" y="0" w="718" h="177" zOrder="2">
+      <URL>3A4509DF958E528CD573E6EAA77EC967.png</URL>
+    </control>
+    <control controlID="E394911D-F0B2-4FA6-9CFB-64073DAA3595" controlTypeID="Button" x="41" y="760" w="120" h="38" zOrder="3">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%B8%96%E0%B8%AD%E0%B8%A2%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="168B4668-E6D7-430D-B9C7-36A35A990D5C" controlTypeID="Label" x="61" y="824" w="81" h="19" zOrder="4">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>CONTACT+US</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="91C181E6-86BC-4BE3-AA2E-AD103211FD66" controlTypeID="Label" x="242" y="197" w="207" h="54" zOrder="5">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%AD%E0%B8%99</text>
+      <textSize>40</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="9FDE989C-8E9A-4F23-8B28-9BCB2C5A1345" controlTypeID="AvatarEx2" x="46" y="197" w="120" h="120" zOrder="6">
+      <icon>
+        <ID/>
+        <iconFontName>jdiconfontB</iconFontName>
+        <iconCode>59652</iconCode>
+      </icon>
+      <URL>467605F5F90D9FF65132C1A6EF883F26.svg</URL>
+    </control>
+    <control controlID="15A9DEF3-7CAA-4615-AD06-6EE84698E576" controlTypeID="Label" x="61" y="337" w="100" h="32" zOrder="7">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%B2%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B9%8C</text>
+      <textColor>4294967295</textColor>
+      <textSize>24</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="6736761B-56D0-4B4C-8BD4-0698176B0EA9" controlTypeID="Label" x="448" y="301" w="81" h="27" zOrder="8">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="80C92541-C51C-4323-BD32-1322AEF221DE" linkType="ltPageLink" isApplyIncludePage="False" title="Page3">
+          <area shape="0" alt="" ID="{19ED7624-1AF4-42D3-AFB3-B543DC5A82DA}" coords="(0,0,81,27)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%881</text>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A0D262E5-4AEC-47F0-9EAC-ACEDFD524F72" controlTypeID="Label" x="448" y="348" w="81" h="27" zOrder="9">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="80C92541-C51C-4323-BD32-1322AEF221DE" linkType="ltPageLink" isApplyIncludePage="False" title="Page3">
+          <area shape="0" alt="" ID="{F729EDD5-3853-4E2C-82E6-189C521843C2}" coords="(0,0,81,27)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%882</text>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="4C5F781E-AB4C-4787-A3FD-FEE73C8091CD" controlTypeID="Label" x="448" y="395" w="81" h="27" zOrder="10">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="80C92541-C51C-4323-BD32-1322AEF221DE" linkType="ltPageLink" isApplyIncludePage="False" title="Page3">
+          <area shape="0" alt="" ID="{7BC267D2-708B-46CD-B663-3B4033CDE626}" coords="(0,0,81,27)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%883</text>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

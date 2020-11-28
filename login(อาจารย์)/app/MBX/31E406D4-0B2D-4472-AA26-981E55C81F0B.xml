@@ -1,0 +1,30 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="31E406D4-0B2D-4472-AA26-981E55C81F0B" platform="MtCustom" defaultW="510" defaultH="300" measureW="510" measureH="300" mobileScreenScale="0">
+  <controls controlCount="3">
+    <control controlID="2FBD8CC3-BCB3-4BFA-B40C-630A749CE54C" controlTypeID="Image" x="0" y="0" w="510" h="300" zOrder="0">
+      <URL>747DA5F7D8A6A0C1BA270E85A17B99F2.jpg</URL>
+    </control>
+    <control controlID="08E16FB2-5EA1-40F0-8D1F-18C1379F0960" controlTypeID="Button" x="16" y="254" w="77" h="20" zOrder="1">
+      <color>4294940928</color>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="DFF0F719-BB9D-4DE7-BB69-6B4749C0BCF7" linkType="ltPageLink" isApplyIncludePage="False" title="Page">
+          <area shape="0" alt="" ID="{2A8C453B-4277-4A12-8407-2DC63D2874F7}" coords="(0,0,77,20)"/>
+        </link>
+      </links>
+      <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%B8%96%E0%B8%AD%E0%B8%A2%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A</text>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C201CBA2-817F-43FE-B1EB-CFFEA92C0BCB" controlTypeID="Image" x="109" y="67" w="401" h="233" zOrder="2">
+      <URL>0F76F29A5181840F08186D882987987B.jpg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>12</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

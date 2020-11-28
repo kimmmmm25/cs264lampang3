@@ -1,0 +1,62 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="CFCC3765-A51E-4DDC-9D9F-525242FAD896" platform="MtCustom" defaultW="510" defaultH="300" measureW="510" measureH="300" mobileScreenScale="0">
+  <controls controlCount="6">
+    <control controlID="25BF40E2-9484-4471-9851-7A4F05E1F5C2" controlTypeID="Image" x="0" y="0" w="510" h="300" zOrder="0">
+      <URL>747DA5F7D8A6A0C1BA270E85A17B99F2.jpg</URL>
+    </control>
+    <control controlID="7D693206-7F3C-4783-B2CD-CB558683710B" controlTypeID="Button" x="16" y="89" w="77" h="25" zOrder="1">
+      <color>4294953984</color>
+      <borderVisible>False</borderVisible>
+      <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%A7</text>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A3D573F1-450A-4D8E-81CE-546317397A6F" controlTypeID="Button" x="16" y="149" w="77" h="25" zOrder="2">
+      <color>4294953984</color>
+      <borderVisible>False</borderVisible>
+      <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2</text>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="4FEF79C0-9D1F-400E-B320-D227E4B67A1F" controlTypeID="Button" x="16" y="119" w="77" h="25" zOrder="3">
+      <color>4294953984</color>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="DFF0F719-BB9D-4DE7-BB69-6B4749C0BCF7" linkType="ltPageLink" isApplyIncludePage="False" title="Page">
+          <area shape="0" alt="" ID="{B968C28E-B3F1-412D-9E0F-46387802C413}" coords="(0,0,77,25)"/>
+        </link>
+      </links>
+      <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%AD%E0%B8%99</text>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C521EC0C-0011-4AC2-B3C6-5F5C2D05B879" controlTypeID="Button" x="16" y="254" w="77" h="20" zOrder="4">
+      <color>4294940928</color>
+      <borderVisible>False</borderVisible>
+      <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A</text>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="B99B2002-2594-49C0-9AAE-2551527072AB" controlTypeID="Image" x="436" y="230" w="74" h="81" zOrder="5">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="727250E4-5EBD-4606-B886-BB780A6907F3" linkType="ltPageLink" isApplyIncludePage="False" title="Page2">
+          <area shape="0" alt="" ID="{6268B1F9-32AB-4E3C-914F-F9D3C2AE8996}" coords="(0,0,74,81)"/>
+        </link>
+      </links>
+      <URL>2670B0B1856AED5866D5AA1CDC47C326.png</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>12</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

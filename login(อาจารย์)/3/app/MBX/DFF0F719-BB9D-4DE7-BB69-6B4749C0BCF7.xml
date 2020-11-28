@@ -1,0 +1,82 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="DFF0F719-BB9D-4DE7-BB69-6B4749C0BCF7" platform="MtCustom" defaultW="1366" defaultH="768" measureW="1366" measureH="768" mobileScreenScale="0">
+  <controls controlCount="6">
+    <control controlID="BF284CD2-2BC9-4AEF-BD5D-0B1950217486" controlTypeID="Image" x="0" y="0" w="1366" h="768" zOrder="0">
+      <URL>747DA5F7D8A6A0C1BA270E85A17B99F2.jpg</URL>
+    </control>
+    <control controlID="346F42F6-AD97-4F4D-AFC8-B6DBD44766F1" controlTypeID="Button" x="32" y="661" w="211" h="44" zOrder="1">
+      <color>4294940928</color>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="CFCC3765-A51E-4DDC-9D9F-525242FAD896" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{3584F234-8E79-4D84-845F-180361E0092E}" coords="(0,0,211,44)"/>
+        </link>
+      </links>
+      <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%B8%96%E0%B8%AD%E0%B8%A2%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A</text>
+      <textSize>40</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="CDBACB49-949F-4D2B-9276-4749917A24E3" controlTypeID="Label" x="336" y="201" w="178" h="46" zOrder="2">
+      <font family="JasmineUPC" displayName="JasmineUPC+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%AD%E0%B8%99</text>
+      <textSize>40</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="E90D1237-17AD-4BF2-B5E2-6ACA9DFDCEA3" controlTypeID="Label" x="411" y="277" w="72" h="34" zOrder="3">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="31E406D4-0B2D-4472-AA26-981E55C81F0B" linkType="ltPageLink" isApplyIncludePage="False" title="Page1">
+          <area shape="0" alt="" ID="{8DD4800C-6A87-4765-BE73-14E264677781}" coords="(0,0,72,34)"/>
+        </link>
+      </links>
+      <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88+1</text>
+      <textColor>4283519313</textColor>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsUnderline]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="9CEF2E43-CE8A-400F-8757-2D802F70DF1F" controlTypeID="Label" x="411" y="316" w="72" h="34" zOrder="4">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="31E406D4-0B2D-4472-AA26-981E55C81F0B" linkType="ltPageLink" isApplyIncludePage="False" title="Page1">
+          <area shape="0" alt="" ID="{8EBFE768-3EC5-4698-9438-2FCA853BB777}" coords="(0,0,72,34)"/>
+        </link>
+      </links>
+      <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88+2</text>
+      <textColor>4283519313</textColor>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsUnderline]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D2BEC9D4-407C-4F11-AB35-B68B01450613" controlTypeID="Label" x="411" y="355" w="72" h="34" zOrder="5">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="31E406D4-0B2D-4472-AA26-981E55C81F0B" linkType="ltPageLink" isApplyIncludePage="False" title="Page1">
+          <area shape="0" alt="" ID="{19DB16A7-FC68-41A8-AB82-7A654558032F}" coords="(0,0,72,34)"/>
+        </link>
+      </links>
+      <font family="JasmineUPC" displayName="JasmineUPC" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88+3</text>
+      <textColor>4283519313</textColor>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsUnderline]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>12</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

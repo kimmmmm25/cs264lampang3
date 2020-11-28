@@ -1,0 +1,96 @@
+﻿<project version="2.9" name="webpage อาจารย์แก้ไข1" ID="FAC41D08-1682-48AD-AEEB-DC953BA085E6">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtCustom" pageSize="(1366,768)" backgroundColor="4294967295" fontSize="12" fontFamily="Segoe UI" projectType="ptTeamProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="หน้าหลัก" ID="CFCC3765-A51E-4DDC-9D9F-525242FAD896" expanded="True" code="DDJvzxONkj" thumbCode="DDJvzxONkj" status="psWhite" isfolder="False" isshownode="True" author="442637" createdate="2020-11-08 18:19:36" modifieddate="2020-11-16 17:21:27" isdeleted="False" ismodified="True" syncversion="1" lasteditor="442637">
+      <images>
+        <image key="747DA5F7D8A6A0C1BA270E85A17B99F2.jpg"/>
+        <image key="2670B0B1856AED5866D5AA1CDC47C326.png"/>
+      </images>
+    </page>
+    <page name="รายวิชาที่สอน" ID="DFF0F719-BB9D-4DE7-BB69-6B4749C0BCF7" expanded="True" code="27RGlq526W" thumbCode="27RGlq526W" status="psWhite" isfolder="False" isshownode="True" author="442637" createdate="2020-11-08 18:26:18" modifieddate="2020-11-10 15:13:24" isdeleted="False" ismodified="True" syncversion="1" lasteditor="442637">
+      <images>
+        <image key="747DA5F7D8A6A0C1BA270E85A17B99F2.jpg"/>
+      </images>
+      <page name="ตารางเวลา" ID="31E406D4-0B2D-4472-AA26-981E55C81F0B" expanded="True" code="WvpRNhpfqT" thumbCode="WvpRNhpfqT" status="psWhite" isfolder="False" isshownode="True" author="442637" createdate="2020-11-08 18:26:25" modifieddate="2020-11-16 17:57:54" isdeleted="False" ismodified="True" syncversion="1" lasteditor="442637">
+        <images>
+          <image key="747DA5F7D8A6A0C1BA270E85A17B99F2.jpg"/>
+        </images>
+      </page>
+    </page>
+    <page name="คำร้องของนักศึกษา" ID="727250E4-5EBD-4606-B886-BB780A6907F3" expanded="True" code="ahjMfTALDj" thumbCode="ahjMfTALDj" status="psWhite" isfolder="False" isshownode="True" author="442637" createdate="2020-11-08 18:26:36" modifieddate="2020-11-16 23:34:32" isdeleted="False" ismodified="True" syncversion="1" lasteditor="442637">
+      <images>
+        <image key="747DA5F7D8A6A0C1BA270E85A17B99F2.jpg"/>
+        <image key="1CCB6D309D01F2C1E3DF43BE84948844.svg"/>
+      </images>
+      <page name="อนุมัติคำร้องของนักศึกษา" ID="97B2D359-F4F5-4CD0-810C-79F21D7F3937" expanded="True" code="jjXpPvlhhw" thumbCode="jjXpPvlhhw" status="psWhite" isfolder="False" isshownode="True" author="442637" createdate="2020-11-08 18:26:37" modifieddate="2020-11-16 23:41:37" isdeleted="False" ismodified="True" syncversion="2" lasteditor="442637">
+        <images>
+          <image key="747DA5F7D8A6A0C1BA270E85A17B99F2.jpg"/>
+        </images>
+      </page>
+      <page name="เอกสาร" ID="F8BFA4B5-F783-45EF-A9AB-E1715E2689E0" expanded="False" code="QqAxWOivaf" thumbCode="QqAxWOivaf" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True" author="442637" createdate="2020-11-10 16:57:10" modifieddate="2020-11-18 14:45:46" isdeleted="False" ismodified="True" syncversion="0" lasteditor="442637">
+        <images>
+          <image key="747DA5F7D8A6A0C1BA270E85A17B99F2.jpg"/>
+          <image key="376406759C6077C581AED4713EBFC73F.svg"/>
+        </images>
+      </page>
+    </page>
+  </pages>
+  <trash>
+    <page name="Page3" ID="A352FDBF-DC79-4256-B55E-5E928755521E" expanded="False" code="Cs759k6M9f" thumbCode="31VvO8gfhf" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True" author="442637" createdate="2020-11-16 23:43:49" modifieddate="2020-11-16 23:44:15" isdeleted="False" ismodified="True" syncversion="0" lasteditor="442637">
+      <images>
+        <image key="747DA5F7D8A6A0C1BA270E85A17B99F2.jpg"/>
+        <image key="376406759C6077C581AED4713EBFC73F.svg"/>
+      </images>
+    </page>
+    <page name="Page3" ID="B8CE7954-7AE9-4CCF-8832-63DCFCF7964E" expanded="False" code="pnwWqeARvj" thumbCode="5FQGzR319Q" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True" author="442637" createdate="2020-11-16 23:44:29" modifieddate="2020-11-16 23:44:38" isdeleted="False" ismodified="True" syncversion="0" lasteditor="442637">
+      <images>
+        <image key="747DA5F7D8A6A0C1BA270E85A17B99F2.jpg"/>
+        <image key="376406759C6077C581AED4713EBFC73F.svg"/>
+      </images>
+    </page>
+    <page name="Page3" ID="D83A88E8-1B42-4694-8F94-62C74035C600" expanded="False" code="QD3p5cDetk" thumbCode="tgvMDG1YMQ" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True" author="442637" createdate="2020-11-16 23:44:50" modifieddate="2020-11-16 23:44:57" isdeleted="False" ismodified="True" syncversion="0" lasteditor="442637">
+      <images>
+        <image key="747DA5F7D8A6A0C1BA270E85A17B99F2.jpg"/>
+        <image key="376406759C6077C581AED4713EBFC73F.svg"/>
+      </images>
+    </page>
+    <page name="Page2" ID="8AE14CD4-AED2-4511-BD7F-8ADEC6B96EC8" expanded="True" code="oz3IAM2RGU" thumbCode="VhfwEU8nrV" status="psWhite" isfolder="False" isshownode="True" author="442637" createdate="2020-11-16 23:42:33" modifieddate="2020-11-18 14:45:20" isdeleted="False" ismodified="True" syncversion="0" lasteditor="442637">
+      <images>
+        <image key="83DD69C47E6D1466D54371E396D6F349.svg"/>
+        <image key="747DA5F7D8A6A0C1BA270E85A17B99F2.jpg"/>
+        <image key="376406759C6077C581AED4713EBFC73F.svg"/>
+      </images>
+    </page>
+    <page name="Page1" ID="2D857FB8-7608-45E3-97D3-536F772E7609" expanded="True" code="YrVBowEHaT" thumbCode="gLavPbjaNX" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True" author="442637" createdate="2020-11-16 23:42:25" modifieddate="2020-11-18 14:45:24" isdeleted="False" ismodified="True" syncversion="0" lasteditor="442637">
+      <images>
+        <image key="83DD69C47E6D1466D54371E396D6F349.svg"/>
+        <image key="747DA5F7D8A6A0C1BA270E85A17B99F2.jpg"/>
+        <image key="376406759C6077C581AED4713EBFC73F.svg"/>
+      </images>
+    </page>
+    <page name="Page" ID="43FEB54F-5E87-4D2E-9012-0163D01B5C6F" expanded="True" code="3eDoMJpQCl" thumbCode="ow8ZGwypmA" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True" author="442637" createdate="2020-11-16 23:34:27" modifieddate="2020-11-18 14:45:28" isdeleted="False" ismodified="True" syncversion="0" lasteditor="442637">
+      <images>
+        <image key="83DD69C47E6D1466D54371E396D6F349.svg"/>
+        <image key="747DA5F7D8A6A0C1BA270E85A17B99F2.jpg"/>
+      </images>
+    </page>
+  </trash>
+  <deletes>
+    <pages/>
+    <masters/>
+  </deletes>
+  <masters/>
+  <images>
+    <image key="747DA5F7D8A6A0C1BA270E85A17B99F2.jpg"/>
+    <image key="2670B0B1856AED5866D5AA1CDC47C326.png"/>
+    <image key="83DD69C47E6D1466D54371E396D6F349.svg"/>
+    <image key="376406759C6077C581AED4713EBFC73F.svg"/>
+    <image key="1CCB6D309D01F2C1E3DF43BE84948844.svg"/>
+  </images>
+  <enterprise syncid="qEs4nSrQLLEDJE" author="442637" syncversion="2" ismodified="True" createtime="2020-11-08 18:19:36" istitlemodified="True"/>
+</project>
